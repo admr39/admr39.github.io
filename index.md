@@ -4,5 +4,8 @@ layout: default
 
 #### Liste de documents
 
-*   [Facture 1](./pdf/aDmR-Facture-1.pdf).
-*   [Facture 2](./pdf/aDmR-Facture-2.pdf).
+- Facture 1: [ADMR-Facture-1.pdf](./pdf/ADMR-Facture-1.pdf).
+  - Facture 1: [ADMR-Facture-1.pdf](./pdf/ADMR-Facture-1.pdf).
+  - Facture 1: [ADMR-Facture-1.pdf](./pdf/ADMR-Facture-1.pdf).
+  - Facture 1: [ADMR-Facture-1.pdf](./pdf/ADMR-Facture-1.pdf).
+  - Facture 1: [ADMR-Facture-1.pdf](./pdf/ADMR-Facture-1.pdf).
