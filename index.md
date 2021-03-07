@@ -7,7 +7,7 @@ to finish...
 ```
 #### Liste de documents
 
-- 05/03: **hhhh*** - [_RABE--1.pdf_](./pdf/.pdf)
+- 05/03: **hhhh** - [_RABE--1.pdf_](./pdf/.pdf)
 - 02/03: **Lettre recommandée avec A.R** - [_ADMR-Recommandee-1.pdf_](./pdf/ADMR-lettre-recommandee.pdf)
   - 05/03: Re 
 - 02/03: **ERREUR DE FACTURE Pour l'ANNÉE 2020** - [_RABE-Facturation-1.pdf_](./pdf/RABERGEAU vs ADMR-Surfacturation.pdf)
@@ -30,5 +30,5 @@ to finish...
 - 16/01: **Votre courriel de réclamation du 12.02.2021** - [_ADMR-Courriel-2.pdf_](./pdf/ADMR-Jura-Lettre.pdf)
   - 28/02: **RÉPONSE À VOTRE COURRIER du 16.01.2021** - [_RABE-Jura-1.pdf_](./pdf/RABERGEAU vs ADMR-Lettre Jura.pdf)
 ```
-Dernière mise à jour: 7 Mars 2021
+<center>_Dernière mise à jour: 7 Mars 2021_</center>
 ```
