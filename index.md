@@ -30,5 +30,5 @@ to finish...
 - 16/01: **Votre courriel de réclamation du 12.02.2021** - [_ADMR-Courriel-2.pdf_](./pdf/ADMR-Jura-Lettre.pdf)
   - 28/02: **RÉPONSE À VOTRE COURRIER du 16.01.2021** - [_RABE-Jura-1.pdf_](./pdf/RABERGEAU vs ADMR-Lettre Jura.pdf)
 ```
-<center>_Dernière mise à jour: 7 Mars 2021_</center>
+<center>Dernière mise à jour: 7 Mars 2021</center>
 ```
