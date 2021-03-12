@@ -2,11 +2,6 @@
 layout: default
 ---
 ```
-ADMR (Aide à Domicile en Milieu Rural)
-Association à but non lucratif de type pyramidale
-qui pretend être “La reference du service à la personne”
-```
-```
 "Me, Myself and I" Philippe RABERGEAU dédicace ce Témoignage
 à mon Père, Michel mort le 19/12/2020, abandonné par docteur 
 à mon Oncle Michel Crespin mort le 6/9/2020 de solitude 
@@ -14,8 +9,15 @@ qui pretend être “La reference du service à la personne”
 et ma Femme, Marie-Hélène
 qui a survécu à la méchanceté humaine.
 ```
-Voici mon histoire en quelque mots:
+```
+ADMR (Aide à Domicile en Milieu Rural)
+Association à but non lucratif de type pyramidale
+qui pretend être “La reference du service à la personne”
+```
+_Voici mon histoire en quelque mots:_
+
 Suite a mon handicap, j’ai bénéficié d’une “aide à domicile”.
+
 Une prestation “livraison de courses hebdomadaire” a été effectué pendant plus de 6 mois sans problème. 
 Mais le 2 mars 2021, l’ADMR de SALINS-LES-BAINS a brutalement résilie mon contrat avec un préavis de seulement 3 jours. 
 Pourquoi?
@@ -23,7 +25,7 @@ ADMR ont décidé de me mettre leur problèmes interne sur mon dos.
 Il ont essaye de me racketter, il ont essaye de me harceler, aussi j’ai découvert qu’il escroque l’assurance maladie.
 La federation départementale se fait des couilles en or (sorry for my french) et investis leurs bénéfices malhonnêtes sur des biens immobiliers et des entreprises de formation bidon. Toutes ces activités criminelles sont bénis par l’union nationale de l’ADMR.
 ADMR ont considéré qu’en résiliant mon contrat, il pourrait résoudre leur problèmes internes.
-Il ont oublié que je suis un être humain et que j’ai des problèmes d’autonomie. La livraison de courses est pour moi une nécessité et malheureusement ADMR ont un monopole dans le milieu rural.
+Il ont oublié que je suis un être humain et que j’ai des problèmes d’autonomie. **La livraison de courses est pour moi une nécessité** et malheureusement ADMR ont un monopole dans le milieu rural.
 ```
             Dernière mise à jour: 11 Mars 2021
 ```
@@ -48,6 +50,7 @@ Il ont oublié que je suis un être humain et que j’ai des problèmes d’auto
   - 19/02/19: **Dispositif Personnes qualifiées** - [_ARS-Qualifiees-1.pdf_](./pdf/ARS-Qualifiees-1.pdf)
   - 08/10/15: **Liste personnes qualifiées Jura** - [_ARS-Qualifiees-2.pdf_](./pdf/ARS-Qualifiees-2.pdf)
   - 22/02/21: **AIDE POUR FAIRE VALOIR MES DROITS** - [_RABE-Qualifiees-1.pdf_](./pdf/RABE-Qualifiees-1.pdf)
+
 * * *
 - 02/03: **ERREUR DE FACTURE Pour l'ANNÉE 2020** - [_RABE-Facturation-1.pdf_](./pdf/RABE-Facturation-1.pdf)
 
@@ -58,6 +61,7 @@ Il ont oublié que je suis un être humain et que j’ai des problèmes d’auto
   - 23/12: **Facture 4** - [_ADMR-Facture-4.pdf_](./pdf/ADMR-Facture-4.pdf) 
   - 22/01: **Facture 5** - [_ADMR-Facture-5.pdf_](./pdf/ADMR-Facture-5.pdf)
   - 25/02: **Facture 6** - [_ADMR-Facture-6.pdf_](./pdf/ADMR-Facture-6.pdf)
+
 * * *
 - 17/02: **Courriel: Livraisons des courses** - [_RABE-Courriel-1.pdf_](./pdf/RABE-Courriel-1.pdf)
 - **Michele Carbonneau** - [_ADMR-Jura-CARBONNEAU-1.pdf_](./pdf/ADMR-Jura-CARBONNEAU-1.pdf)
