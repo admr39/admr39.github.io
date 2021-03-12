@@ -14,6 +14,16 @@ qui pretend être “La reference du service à la personne”
 et ma Femme, Marie-Hélène
 qui a survécu à la méchanceté humaine.
 ```
+Voici mon histoire en quelque mots:
+Suite a mon handicap, j’ai bénéficié d’une “aide à domicile”.
+Une prestation “livraison de courses hebdomadaire” a été effectué pendant plus de 6 mois sans problème. 
+Mais le 2 mars 2021, l’ADMR de SALINS-LES-BAINS a brutalement résilie mon contrat avec un préavis de seulement 3 jours. 
+Pourquoi?
+ADMR ont décidé de me mettre leur problèmes interne sur mon dos.
+Il ont essaye de me racketter, il ont essaye de me harceler, aussi j’ai découvert qu’il escroque l’assurance maladie.
+La federation départementale se fait des couilles en or (sorry for my french) et investis leurs bénéfices malhonnêtes sur des biens immobiliers et des entreprises de formation bidon. Toutes ces activités criminelles sont bénis par l’union nationale de l’ADMR.
+ADMR ont considéré qu’en résiliant mon contrat, il pourrait résoudre leur problèmes internes.
+Il ont oublié que je suis un être humain et que j’ai des problèmes d’autonomie. La livraison de courses est pour moi une nécessité et malheureusement ADMR ont un monopole dans le milieu rural.
 ```
             Dernière mise à jour: 11 Mars 2021
 ```
@@ -27,11 +37,12 @@ qui a survécu à la méchanceté humaine.
   - 21/09: **Devis #2** [_ADMR-Devis-2.pdf_](./pdf/ADMR-Devis-2.pdf)
 
 * * *
-
 - 26/02: **PARKING EN DOUBLE FILE ET/OU DEVANT PORTE COCHÈRE** - [_RABE-Police.pdf_](./pdf/RABE-Police.pdf)
+  - 28/02: **Reponse à votre courrier du 26 fevrier** - [_MAIRIE-Reponse.pdf_](./pdf/MAIRIE-Reponse.pdf)
 
-- 16/01: **Votre courriel de réclamation du 12.02.2021** - [_ADMR-Courriel-2.pdf_](./pdf/ADMR-Courriel-2.pdf)
-  - 28/02: **RÉPONSE À VOTRE COURRIER du 16.01.2021** - [_RABE-Jura-1.pdf_](./pdf/RABE-Jura-1.pdf)
+- 28/02: **RÉPONSE À VOTRE COURRIER du 16.01.2021** - [_RABE-Jura-1.pdf_](./pdf/RABE-Jura-1.pdf)
+  - 16/01: **Votre courriel de réclamation du 12.02.2021** - [_ADMR-Courriel-2.pdf_](./pdf/ADMR-Courriel-2.pdf)
+
 * * *
 - 01/01/19: **Que faire en cas de problème?** - [_ADMR-Livret-5.pdf_](./pdf/ADMR-Livret-5.pdf)
   - 19/02/19: **Dispositif Personnes qualifiées** - [_ARS-Qualifiees-1.pdf_](./pdf/ARS-Qualifiees-1.pdf)
