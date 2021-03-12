@@ -18,13 +18,13 @@ _Voici mon histoire en quelque mots:_
 
 Suite a mon handicap, j’ai bénéficié d’une “aide à domicile”. Une prestation “livraison de courses hebdomadaire” a été effectué pendant plus de 6 mois sans problème. 
 
-Mais le 2 mars 2021, l’ADMR de SALINS-LES-BAINS a brutalement résilie mon contrat avec un préavis de seulement 3 jours. 
+Mais le 2 mars 2021, l’association locale ADMR de SALINS-LES-BAINS a brutalement résilie mon contrat avec un préavis de seulement 3 jours. 
 
 Pourquoi?
 
 ADMR ont décidé de me mettre leur problèmes interne sur mon dos.
 
-Il ont essaye de me racketter, il ont essaye de me harceler, aussi j’ai découvert qu’il escroque l’assurance maladie.
+Il ont essaye de me racketter, il ont essaye de me harceler, aussi j’ai découvert qu’il escroquait l’assurance maladie.
 La federation départementale se fait des couilles en or (sorry for my french) et investis leurs bénéfices malhonnêtes sur des biens immobiliers et des entreprises de formation bidon. Toutes ces activités criminelles sont bénis par l’union nationale de l’ADMR.
 
 ADMR ont considéré qu’en résiliant mon contrat, il pourrait résoudre leur problèmes internes.
