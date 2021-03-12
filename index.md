@@ -7,12 +7,12 @@ Association à but non lucratif de type pyramidale
 qui pretend être “La reference du service à la personne”
 ```
 ```
-"Me, Myself and I" Philippe RABERGEAU 
-dédicace ce "Témoignage" 
-à mon Père, Michel mort le 19/12/2020, abandonné par docteur, 
-à mon Oncle Michel Crespin mort le 6/9/2020 de solitude, 
+"Me, Myself and I" Philippe RABERGEAU dédicace ce Témoignage
+à mon Père, Michel mort le 19/12/2020, abandonné par docteur 
+à mon Oncle Michel Crespin mort le 6/9/2020 de solitude 
 à ma Mère qui a perdu ces deux Michels
-et ma Femme, Marie-Hélène, qui a survécu à la méchanceté humaine.
+et ma Femme, Marie-Hélène
+qui a survécu à la méchanceté humaine.
 ```
 ```
             Dernière mise à jour: 11 Mars 2021
@@ -23,9 +23,11 @@ et ma Femme, Marie-Hélène, qui a survécu à la méchanceté humaine.
   - 02/03: **Lettre recommandée avec A.R** - [_ADMR-Recommandee-1.pdf_](./pdf/ADMR-lettre-recommandee.pdf)
   - 24/02: **DEMANDE D’INFORMATION AU SUJET DE L’AFFAIRE “RABERGEAU PHILIPPE”** - [_RABE-Info.pdf_](./pdf/RABE-Info.pdf)
   - 17/08: **Contrat “Services prestataires d’aide à domicile"** [_ADMR-Contrat.pdf_](./pdf/ADMR-Contrat.pdf)
-  - 21/09: **Devis #1** [_ADMR-Devis-1.pdf_](./pdf/ADMR-Devis-1.pdf)
+  - 17/09: **Devis #1** [_ADMR-Devis-1.pdf_](./pdf/ADMR-Devis-1.pdf)
   - 21/09: **Devis #2** [_ADMR-Devis-2.pdf_](./pdf/ADMR-Devis-2.pdf)
+
 * * *
+
 - 26/02: **PARKING EN DOUBLE FILE ET/OU DEVANT PORTE COCHÈRE** - [_RABE-Police.pdf_](./pdf/RABE-Police.pdf)
 
 - 16/01: **Votre courriel de réclamation du 12.02.2021** - [_ADMR-Courriel-2.pdf_](./pdf/ADMR-Courriel-2.pdf)
