@@ -1,19 +1,25 @@
 ---
 layout: default
 ---
-```js
-ADMR (Aide à Domicile en Milieu Rural) est une Association à but non lucratif 
-de type pyramidale qui pretend être “La reference du service à la personne”
 ```
-```js
-"Me, Myself and I" Philippe RABERGEAU dédicace ce "Témoignage" 
-à mon Père, Michel mort le 19/12/2020, abandonné par certain doctor, 
-à mon Oncle Michel Crespin mort le 6/9/2020 de solitude,
+ADMR (Aide à Domicile en Milieu Rural)
+Association à but non lucratif 
+de type pyramidale qui pretend être 
+“La reference du service à la personne”
+```
+```
+"Me, Myself and I" Philippe RABERGEAU 
+dédicace ce "Témoignage" 
+à mon Père, Michel mort le 19/12/2020, 
+abandonné par certain doctor, 
+à mon Oncle Michel Crespin mort le 6/9/2020 
+de solitude, 
 à ma Mère qui perdu ces deux Michels
-et ma Femme, Marie-Hélène, qui a survécu à la méchanceté humaine.
+et ma Femme, Marie-Hélène, 
+qui a survécu à la méchanceté humaine.
 ```
 ```
-            Dernière mise à jour: 7 Mars 2021
+            Dernière mise à jour: 11 Mars 2021
 ```
 #### Liste de documents (28 fichiers)
 
