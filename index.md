@@ -2,11 +2,11 @@
 layout: default
 ---
 
-[_http://admr39.github.io_](http://admr39.github.io)
-Dernière mise à jour: 11 Mars 2021
+  <a href="http://admr39.github.io">http://admr39.github.io</a> - Dernière mise à jour: 11 Mars 2021
+  [_http://admr39.github.io_](http://admr39.github.io) - Dernière mise à jour: 11 Mars 2021
 
 ```
-Me, Myself and I Philippe RABERGEAU dédicace ce Témoignage
+Me, Myself and I, Philippe RABERGEAU dédicace ce Témoignage
 à mon Père Michel mort le 19/12/2020, abandonné par docteur 
 à mon Oncle Michel Crespin mort de solitude le 6/9/2020
 à ma Mère qui a perdu ces deux Michels
@@ -26,7 +26,7 @@ Mais le 2 mars 2021, l’association locale ADMR de SALINS-LES-BAINS a brutaleme
 
 **Pourquoi?**
 
-ADMR m’accuse d’être une personne dangereuse qui martyrise leurs employées "aide a domicile: [ [_ADMR-Recommandee.pdf_](./pdf/ADMR-Recommandee.pdf) ].
+ADMR m’accuse d’être une personne dangereuse qui martyrise leurs employées "aide a domicile": [ [_ADMR-Recommandee.pdf_](./pdf/ADMR-Recommandee.pdf) ].
 
 La vérite est que ADMR ont décidé de me mettre leur problèmes interne sur mon dos.
 
@@ -37,7 +37,7 @@ ADMR ont considéré qu’en résiliant mon contrat, il pourrait résoudre leur 
 
 ADMR ont oublié que je suis un être humain et que j’ai des problèmes d’autonomie. **La livraison de courses est pour moi une nécessité** et malheureusement ADMR ont un monopole dans le milieu rural.
 
-# Liste des individus qui ont décidés de détruire la vie de ma famille:
+#### Liste des individus qui ont décidés de détruire la vie de ma famille:
 
 - Farida CUDEY, Aide Ménagère ADMR de SALINS-LES-BAINS
 admr2@salins.fede39.admr.org - 03.84.73.02.77
