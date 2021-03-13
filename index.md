@@ -34,7 +34,7 @@ La livraison de courses est pour moi une nécessité et malheureusement ADMR ont
 
 J'ai informé la Police Municipale de SALINS-LES-BAINS: [ [_http://admr39.github.io/pdf/POLICE-Lettre.pdf_](./pdf/POLICE-Lettre.pdf) ], j'ai porté plainte à la Gendarmerie: [ [_http://admr39.github.io/pdf/PROCUREUR-Lettre.pdf_](./pdf/PROCUREUR-Lettre.pdf) ] et demander de l'aide à la Préfecture du JURA: [ [_http://admr39.github.io/pdf/PREFET-Lettre.pdf_](./pdf/PREFET-Lettre.pdf) ].
 
-**Mais malheureusement je crois que je vais être oblige de punir les criminels moi-même.**
+**Mais malheureusement je crois que je vais être oblige de punir les criminels moi-même. Dieu est Grand...**
 
 ### Liste des individus qui ont décidés de détruire la vie de ma famille:
 
