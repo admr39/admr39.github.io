@@ -2,8 +2,8 @@
 layout: default
 ---
 
-         [_http://admr39.github.io_](http://admr39.github.io)
-           Dernière mise à jour: 11 Mars 2021
+[_http://admr39.github.io_](http://admr39.github.io)
+Dernière mise à jour: 11 Mars 2021
 
 ```
 Me, Myself and I Philippe RABERGEAU dédicace ce Témoignage
@@ -37,7 +37,7 @@ ADMR ont considéré qu’en résiliant mon contrat, il pourrait résoudre leur 
 
 ADMR ont oublié que je suis un être humain et que j’ai des problèmes d’autonomie. **La livraison de courses est pour moi une nécessité** et malheureusement ADMR ont un monopole dans le milieu rural.
 
-#### Liste des individus qui ont décidés de détruire la vie de ma famille:
+# Liste des individus qui ont décidés de détruire la vie de ma famille:
 
 - Farida CUDEY, Aide Ménagère ADMR de SALINS-LES-BAINS
 admr2@salins.fede39.admr.org - 03.84.73.02.77
