@@ -3,6 +3,7 @@ layout: default
 ---
          [_http://admr39.github.io_](http://admr39.github.io)
            Dernière mise à jour: 11 Mars 2021
+
 ```
 Me, Myself and I Philippe RABERGEAU dédicace ce Témoignage
 à mon Père Michel mort le 19/12/2020, abandonné par docteur 
@@ -24,7 +25,7 @@ Mais le 2 mars 2021, l’association locale ADMR de SALINS-LES-BAINS a brutaleme
 
 **Pourquoi?**
 
-ADMR m’accuse d’être une personne dangereuse qui martyrise leurs employées "aide a domicile". Plus d'information, ici: [_ADMR-Recommandee-1.pdf_](./pdf/ADMR-lettre-recommandee.pdf).
+ADMR m’accuse d’être une personne dangereuse qui martyrise leurs employées "aide a domicile: [ [_ADMR-Recommandee.pdf_](./pdf/ADMR-Recommandee.pdf) ].
 
 La vérite est que ADMR ont décidé de me mettre leur problèmes interne sur mon dos.
 
@@ -34,17 +35,23 @@ La federation départementale se fait des couilles en or (sorry for my french) e
 ADMR ont considéré qu’en résiliant mon contrat, il pourrait résoudre leur problèmes internes.
 
 ADMR ont oublié que je suis un être humain et que j’ai des problèmes d’autonomie. **La livraison de courses est pour moi une nécessité** et malheureusement ADMR ont un monopole dans le milieu rural.
-### Liste des individus qui ont décidés de détruire la vie de ma famille:
+
+#### Liste des individus qui ont décidés de détruire la vie de ma famille:
+
 - Farida CUDEY, Aide Ménagère ADMR de SALINS-LES-BAINS
 admr2@salins.fede39.admr.org - 03.84.73.02.77
 - Anne-Marie PIQUET, Vice-Présidente ADMR de SALINS-LES-BAINS
-  - admr2@salins.fede39.admr.org - 03.84.73.02.77
-- Marcelle GENIN, Vice-Présidente du CCAS de SALINS-LES-BAINS - m.genin@mairie-salinslesbains.fr - 06.77.05.70.568
-- Thomas SCRIVE, Directeur de la Federation ADMR du JURA - info.fede39@admr.org - 03.84.47.26.31
-- Michèle CARBONNEAU, Présidente et Gérante  ADMR du JURA - info.fede39@admr.org - 03.84.47.26.31
-- Marie-Josée DAGUIN, Présidente Union Nationale ADMR -  info@un.admr.org - 01.44.65.55.55
+admr2@salins.fede39.admr.org - 03.84.73.02.77
+- Marcelle GENIN, Vice-Présidente du CCAS de SALINS-LES-BAINS
+m.genin@mairie-salinslesbains.fr - 06.77.05.70.568
+- Thomas SCRIVE, Directeur de la Federation ADMR du JURA
+info.fede39@admr.org - 03.84.47.26.31
+- Michèle CARBONNEAU, Présidente et Gérante  ADMR du JURA
+info.fede39@admr.org - 03.84.47.26.31
+- Marie-Josée DAGUIN, Présidente Union Nationale ADMR
+info@un.admr.org - 01.44.65.55.55
 
-#### Liste de documents (28 fichiers)
+# Liste de documents (28 fichiers)
 
 - 04/03: **RÉPONSE À LETTRE RECOMMANDÉE DU 2 MARS 2021** [_RABE-Reponse-2.pdf_](./pdf/RABE-Reponse-2.pdf)
   - 02/03: **Lettre recommandée avec A.R** - [_ADMR-Recommandee-1.pdf_](./pdf/ADMR-lettre-recommandee.pdf)
