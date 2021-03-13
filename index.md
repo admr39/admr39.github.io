@@ -32,11 +32,11 @@ La federation départementale se fait des couilles en or (sorry for my french) e
 
 La livraison de courses est pour moi une nécessité et malheureusement ADMR ont un monopole dans le milieu rural.
 
-- J'ai fait une demande au Mediateur de la Communication: [[_http://admr39.github.io/pdf/MEDIATEUR-Lettre.pdf_](./pdf/MEDIATEUR-Lettre.pdf)]
+- J'ai fait une demande au **<u>Mediateur de la Communication</u>**: [[_http://admr39.github.io/pdf/MEDIATEUR-Lettre.pdf_](./pdf/MEDIATEUR-Lettre.pdf)]
 - J'ai fait appel à une **<u>Persone Qualifiée</u>**: [[_http://admr39.github.io/pdf/QUALIFIE-Lettres.pdf_](./pdf/QUALIFIE-Lettres.pdf)]
-- J'ai informé la <b>Police Municipale</b> de SALINS-LES-BAINS: [[_http://admr39.github.io/pdf/POLICE-Lettre.pdf_](./pdf/POLICE-Lettre.pdf)]
-- J'ai porté plainte à la Gendarmerie: [[_http://admr39.github.io/pdf/PROCUREUR-Lettre.pdf_](./pdf/PROCUREUR-Lettre.pdf)]
-- J'ai demandé de l'aide à la Préfecture du JURA: [[_http://admr39.github.io/pdf/PREFET-Lettre.pdf_](./pdf/PREFET-Lettre.pdf)].
+- J'ai informé la **<u>>Police Municipale</u>** de SALINS-LES-BAINS: [[_http://admr39.github.io/pdf/POLICE-Lettre.pdf_](./pdf/POLICE-Lettre.pdf)]
+- J'ai porté plainte à la **<u>Gendarmerie</u>**: [[_http://admr39.github.io/pdf/PROCUREUR-Lettre.pdf_](./pdf/PROCUREUR-Lettre.pdf)]
+- J'ai demandé de l'aide à la **<u>Préfecture du JURA</u>**: [[_http://admr39.github.io/pdf/PREFET-Lettre.pdf_](./pdf/PREFET-Lettre.pdf)].
 
 **Mais malheureusement je crois que je vais être oblige de punir les criminels moi-même. Dieu est Grand...**
 
