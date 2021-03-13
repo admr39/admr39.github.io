@@ -25,14 +25,18 @@ Mais le 2 mars 2021, l’association locale ADMR de SALINS-LES-BAINS a brutaleme
 
 **Pourquoi?**
 
-ADMR m’accuse d’être une personne dangereuse qui martyrise leurs employées "aide a domicile": [[_http://admr39.github.io/pdf/ADMR-Recommandee.pdf](./pdf/ADMR-Recommandee.pdf) ]
+ADMR m’accuse d’être une personne dangereuse qui martyrise leurs employées "aide a domicile": [[_http://admr39.github.io/pdf/ADMR-Recommandee.pdf_](./pdf/ADMR-Recommandee.pdf)]
 
 Il ont essaye de me racketter, il ont essaye de me harceler, aussi j’ai découvert qu’il escroquait l’assurance maladie.
-La federation départementale se fait des couilles en or (sorry for my french) et investis leurs bénéfices malhonnêtes sur des biens immobiliers et des entreprises de formation bidon: [[_http://admr39.github.io/pdf/ADMR-Fraude.pdf](./pdf/ADMR-Fraude.pdf) ]. Toutes ces activités criminelles sont bénis par l’union nationale de l’ADMR.
+La federation départementale se fait des couilles en or (sorry for my french) et investis leurs bénéfices malhonnêtes sur des biens immobiliers et des entreprises de formation bidon: [[_http://admr39.github.io/pdf/ADMR-Fraude.pdf_](./pdf/ADMR-Fraude.pdf)]. Toutes ces activités criminelles sont bénis par l’union nationale de l’ADMR.
 
 La livraison de courses est pour moi une nécessité et malheureusement ADMR ont un monopole dans le milieu rural.
 
-J'ai informé la Police Municipale de SALINS-LES-BAINS: [[_http://admr39.github.io/pdf/POLICE-Lettre.pdf_](./pdf/POLICE-Lettre.pdf)], j'ai porté plainte à la Gendarmerie: [[_http://admr39.github.io/pdf/PROCUREUR-Lettre.pdf_](./pdf/PROCUREUR-Lettre.pdf)] et demander de l'aide à la Préfecture du JURA: [[_http://admr39.github.io/pdf/PREFET-Lettre.pdf_](./pdf/PREFET-Lettre.pdf)].
+- J'ai au Mediateur de la Communication: [[_http://admr39.github.io/pdf/MEDIATEUR-Lettre.pdf_](./pdf/MEDIATEUR-Lettre.pdf)]
+- J'ai fait appel à une <u>Persone Qualifiée</u>: [[_http://admr39.github.io/pdf/QUALIFIE-Lettres.pdf_](./pdf/QUALIFIE-Lettres.pdf)]
+- J'ai informé la <b>Police Municipale</b> de SALINS-LES-BAINS: [[_http://admr39.github.io/pdf/POLICE-Lettre.pdf_](./pdf/POLICE-Lettre.pdf)]
+- J'ai porté plainte à la Gendarmerie: [[_http://admr39.github.io/pdf/PROCUREUR-Lettre.pdf_](./pdf/PROCUREUR-Lettre.pdf)]
+- J'ai demandé de l'aide à la Préfecture du JURA: [[_http://admr39.github.io/pdf/PREFET-Lettre.pdf_](./pdf/PREFET-Lettre.pdf)].
 
 **Mais malheureusement je crois que je vais être oblige de punir les criminels moi-même. Dieu est Grand...**
 
