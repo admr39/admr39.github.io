@@ -4,7 +4,7 @@ layout: default
 ```
 "Me, Myself and I" Philippe RABERGEAU dédicace ce Témoignage
 à mon Père, Michel mort le 19/12/2020, abandonné par docteur 
-à mon Oncle Michel Crespin mort le 6/9/2020 de solitude 
+à mon Oncle Michel Crespin mort de solitude le 6/9/2020
 à ma Mère qui a perdu ces deux Michels
 et ma Femme, Marie-Hélène
 qui a survécu à la méchanceté humaine.
@@ -14,22 +14,24 @@ ADMR (Aide à Domicile en Milieu Rural)
 Association à but non lucratif de type pyramidale
 qui pretend être “La reference du service à la personne”
 ```
-_Voici mon histoire en quelque mots:_
+_Voici mon témoignage en quelque mots:_
 
 Suite a mon handicap, j’ai bénéficié d’une “aide à domicile”. Une prestation “livraison de courses hebdomadaire” a été effectué pendant plus de 6 mois sans problème. 
 
 Mais le 2 mars 2021, l’association locale ADMR de SALINS-LES-BAINS a brutalement résilie mon contrat avec un préavis de seulement 3 jours. 
 
-Pourquoi?
+**Pourquoi?**
 
-ADMR ont décidé de me mettre leur problèmes interne sur mon dos.
+ADMR m’accuse d’être une personne dangereuse qui martyrise leurs employées "aide a domicile"  [_ADMR-Recommandee-1.pdf_](./pdf/ADMR-lettre-recommandee.pdf).
+
+La vérite est que ADMR ont décidé de me mettre leur problèmes interne sur mon dos.
 
 Il ont essaye de me racketter, il ont essaye de me harceler, aussi j’ai découvert qu’il escroquait l’assurance maladie.
 La federation départementale se fait des couilles en or (sorry for my french) et investis leurs bénéfices malhonnêtes sur des biens immobiliers et des entreprises de formation bidon. Toutes ces activités criminelles sont bénis par l’union nationale de l’ADMR.
 
 ADMR ont considéré qu’en résiliant mon contrat, il pourrait résoudre leur problèmes internes.
 
-Il ont oublié que je suis un être humain et que j’ai des problèmes d’autonomie. **La livraison de courses est pour moi une nécessité** et malheureusement ADMR ont un monopole dans le milieu rural.
+ADMR ont oublié que je suis un être humain et que j’ai des problèmes d’autonomie. **La livraison de courses est pour moi une nécessité** et malheureusement ADMR ont un monopole dans le milieu rural.
 ```
             Dernière mise à jour: 11 Mars 2021
 ```
