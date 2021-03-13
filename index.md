@@ -17,7 +17,7 @@ ADMR (Aide à Domicile en Milieu Rural)
 Association à but non lucratif de type pyramidale
 qui pretend être “La reference du service à la personne”
 ```
-_Voici mon témoignage en quelque mots:_
+**Voici mon témoignage en quelque mots:**
 
 Suite a mon handicap, j’ai bénéficié d’une “aide à domicile”. Une prestation “livraison de courses hebdomadaire” a été effectué pendant plus de 6 mois sans problème. 
 
