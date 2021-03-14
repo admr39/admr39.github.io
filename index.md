@@ -2,7 +2,7 @@
 layout: default
 ---
 
-  [_http://admr39.github.io_](http://admr39.github.io) - dernière mise à jour: 12 Mars 2021
+  [_http://admr39.github.io_](http://admr39.github.io) - dernière mise à jour: 13 Mars 2021
 
 ```
 Me, Myself and I, Philippe RABERGEAU dédicace ce Témoignage
@@ -35,6 +35,7 @@ La livraison de courses est pour moi une nécessité et malheureusement ADMR ont
 - J'ai adressé un réclamation à la **<u>Federation Départementale</u>**: [[_http://admr39.github.io/pdf/FEDERATION-Lettre.pdf_](./pdf/MEDIATEUR-Lettre.pdf)]
 - J'ai fait une demande au **<u>Mediateur de la Communication</u>**: [[_http://admr39.github.io/pdf/MEDIATEUR-Lettre.pdf_](./pdf/MEDIATEUR-Lettre.pdf)]
 - J'ai fait appel à une **<u>Persone Qualifiée</u>**: [[_http://admr39.github.io/pdf/QUALIFIE-Lettres.pdf_](./pdf/QUALIFIE-Lettres.pdf)]
+- J'ai saisi le **<u>Défenseur des droits</u>**: [[_http://admr39.github.io/lettre/DEFENSEUR-DROITS.pdf_](./lettre/DEFENSEUR-DROITS.pdf)]
 - J'ai informé la **<u>Police Municipale</u>** de SALINS-LES-BAINS: [[_http://admr39.github.io/pdf/POLICE-Lettre.pdf_](./pdf/POLICE-Lettre.pdf)]
 - J'ai porté plainte à la **<u>Gendarmerie</u>**: [[_http://admr39.github.io/pdf/PROCUREUR-Lettre.pdf_](./pdf/PROCUREUR-Lettre.pdf)]
 - J'ai demandé de l'aide à la **<u>Préfecture du JURA</u>**: [[_http://admr39.github.io/pdf/PREFET-Lettre.pdf_](./pdf/PREFET-Lettre.pdf)].
