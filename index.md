@@ -32,13 +32,13 @@ La federation départementale se fait des couilles en or (sorry for my french) e
 
 La livraison de courses est pour moi une nécessité et malheureusement ADMR ont un monopole dans le milieu rural.
 
-- J'ai adressé un réclamation à la **<u>Federation Départementale</u>**: [[_http://admr39.github.io/pdf/FEDERATION-Lettre.pdf_](./pdf/MEDIATEUR-Lettre.pdf)]
-- J'ai fait une demande au **<u>Mediateur de la Communication</u>**: [[_http://admr39.github.io/pdf/MEDIATEUR-Lettre.pdf_](./pdf/MEDIATEUR-Lettre.pdf)]
-- J'ai fait appel à une **<u>Persone Qualifiée</u>**: [[_http://admr39.github.io/pdf/QUALIFIE-Lettres.pdf_](./pdf/QUALIFIE-Lettres.pdf)]
-- J'ai saisi le **<u>Défenseur des droits</u>**: [[_http://admr39.github.io/lettre/DEFENSEUR-DROITS.pdf_](./lettre/DEFENSEUR-DROITS.pdf)]
-- J'ai informé la **<u>Police Municipale</u>** de SALINS-LES-BAINS: [[_http://admr39.github.io/pdf/POLICE-Lettre.pdf_](./pdf/POLICE-Lettre.pdf)]
-- J'ai porté plainte à la **<u>Gendarmerie</u>**: [[_http://admr39.github.io/pdf/PROCUREUR-Lettre.pdf_](./pdf/PROCUREUR-Lettre.pdf)]
-- J'ai demandé de l'aide à la **<u>Préfecture du JURA</u>**: [[_http://admr39.github.io/pdf/PREFET-Lettre.pdf_](./pdf/PREFET-Lettre.pdf)].
+- J'ai adressé un réclamation à la **<u>Federation Départementale</u>**: [[_http://admr39.github.io/lettre/FEDERATION-Departementale.pdf_](./lettre/FEDERATION-Departementale.pdf)]
+- J'ai fait une demande au **<u>Mediateur de la Communication</u>**: [[_http://admr39.github.io/lettre/MEDIATEUR-Communication.pdf_](./lettre/MEDIATEUR-Communication.pdf)]
+- J'ai fait appel à une **<u>Persone Qualifiée</u>**: [[_http://admr39.github.io/lettre/PERSONE-Qualifiees.pdf_](./lettre/PERSONE-Qualifiees.pdf)]
+- J'ai saisi le **<u>Défenseur des droits</u>**: [[_http://admr39.github.io/lettre/DEFENSEUR-Droits.pdf_](./lettre/DEFENSEUR-Droits.pdf)]
+- J'ai informé la **<u>Police Municipale</u>** de SALINS-LES-BAINS: [[_http://admr39.github.io/lettre/POLICE-Municipale.pdf_](./lettre/POLICE-Municipale.pdf)]
+- J'ai porté plainte à la **<u>Gendarmerie</u>**: [[_http://admr39.github.io/lettre/PROCUREUR-Republique.pdf_](./lettre/PROCUREUR-Republique.pdf)]
+- J'ai demandé de l'aide à la **<u>Préfecture du JURA</u>**: [[_http://admr39.github.io/lettre/PREFET-Jura.pdf_](./lettre/PREFET-Jura.pdf)].
 
 **Mais malheureusement je crois que je vais être oblige de punir les criminels moi-même. Dieu est Grand...**
 
@@ -67,17 +67,20 @@ info@un.admr.org - 01.44.65.55.55
   - 21/09: **Devis #2** [_ADMR-Devis-2.pdf_](./pdf/ADMR-Devis-2.pdf)
 
 * * *
-- 26/02: **PARKING EN DOUBLE FILE ET/OU DEVANT PORTE COCHÈRE** - [_RABE-Police.pdf_](./pdf/RABE-Police.pdf)
-  - 28/02: **Reponse à votre courrier du 26 fevrier** - [_MAIRIE-Reponse.pdf_](./pdf/MAIRIE-Reponse.pdf)
-
 - 28/02: **RÉPONSE À VOTRE COURRIER du 16.01.2021** - [_RABE-Jura-1.pdf_](./pdf/RABE-Jura-1.pdf)
   - 16/01: **Votre courriel de réclamation du 12.02.2021** - [_ADMR-Courriel-2.pdf_](./pdf/ADMR-Courriel-2.pdf)
+
+- 26/02: **PARKING EN DOUBLE FILE ET/OU DEVANT PORTE COCHÈRE** - [_RABE-Police.pdf_](./pdf/RABE-Police.pdf)
+  - 28/02: **Reponse à votre courrier du 26 fevrier** - [_MAIRIE-Reponse.pdf_](./pdf/MAIRIE-Reponse.pdf)
 
 * * *
 - 01/01/19: **Que faire en cas de problème?** - [_ADMR-Livret-5.pdf_](./pdf/ADMR-Livret-5.pdf)
   - 19/02/19: **Dispositif Personnes qualifiées** - [_ARS-Qualifiees-1.pdf_](./pdf/ARS-Qualifiees-1.pdf)
   - 08/10/15: **Liste personnes qualifiées Jura** - [_ARS-Qualifiees-2.pdf_](./pdf/ARS-Qualifiees-2.pdf)
-  - 22/02/21: **AIDE POUR FAIRE VALOIR MES DROITS** - [_RABE-Qualifiees-1.pdf_](./pdf/RABE-Qualifiees-1.pdf)
+  - 22/02/21: **AIDE POUR FAIRE VALOIR MES DROITS 1** - [_RABE-Qualifiees-1.pdf_](./pdf/RABE-Qualifiees-1.pdf)
+  - 22/02/21: **AIDE POUR FAIRE VALOIR MES DROITS 2** - [_RABE-Qualifiees-2.pdf_](./pdf/RABE-Qualifiees-2.pdf)
+  - 22/02/21: **AIDE POUR FAIRE VALOIR MES DROITS 3** - [_RABE-Qualifiees-3.pdf_](./pdf/RABE-Qualifiees-3.pdf)
+  - 22/02/21: **AIDE POUR FAIRE VALOIR MES DROITS 4** - [_RABE-Qualifiees-4.pdf_](./pdf/RABE-Qualifiees-4.pdf)
 
 * * *
 - 02/03: **ERREUR DE FACTURE Pour l'ANNÉE 2020** - [_RABE-Facturation-1.pdf_](./pdf/RABE-Facturation-1.pdf)
