@@ -34,7 +34,7 @@ La livraison de courses est pour moi une nécessité et malheureusement ADMR ont
 
 - J'ai adressé un réclamation à la **<u>Federation Départementale</u>**: [[_http://admr39.github.io/lettre/FEDERATION-Departementale.pdf_](./lettre/FEDERATION-Departementale.pdf)]
 - J'ai fait une demande au **<u>Mediateur de la Communication</u>**: [[_http://admr39.github.io/lettre/MEDIATEUR-Communication.pdf_](./lettre/MEDIATEUR-Communication.pdf)]
-- J'ai fait appel à une **<u>Persone Qualifiée</u>**: [[_http://admr39.github.io/lettre/PERSONNE-Qualifiees.pdf_](./lettre/PERSONNE-Qualifiees.pdf)]
+- J'ai fait appel à une **<u>Personne Qualifiée</u>**: [[_http://admr39.github.io/lettre/PERSONNE-Qualifiees.pdf_](./lettre/PERSONNE-Qualifiees.pdf)]
 - J'ai saisi le **<u>Défenseur des droits</u>**: [[_http://admr39.github.io/lettre/DEFENSEUR-Droits.pdf_](./lettre/DEFENSEUR-Droits.pdf)]
 - J'ai informé la **<u>Police Municipale</u>** de SALINS-LES-BAINS: [[_http://admr39.github.io/lettre/POLICE-Municipale.pdf_](./lettre/POLICE-Municipale.pdf)]
 - J'ai porté plainte à la **<u>Gendarmerie</u>**: [[_http://admr39.github.io/lettre/PROCUREUR-Republique.pdf_](./lettre/PROCUREUR-Republique.pdf)]
