@@ -32,6 +32,7 @@ La federation départementale se fait des couilles en or (sorry for my french) e
 
 La livraison de courses est pour moi une nécessité et malheureusement ADMR ont un monopole dans le milieu rural.
 
+- J'ai adressé un réclamation à la **<u>Federation Départementale</u>**: [[_http://admr39.github.io/pdf/FEDERATION-Lettre.pdf_](./pdf/MEDIATEUR-Lettre.pdf)]
 - J'ai fait une demande au **<u>Mediateur de la Communication</u>**: [[_http://admr39.github.io/pdf/MEDIATEUR-Lettre.pdf_](./pdf/MEDIATEUR-Lettre.pdf)]
 - J'ai fait appel à une **<u>Persone Qualifiée</u>**: [[_http://admr39.github.io/pdf/QUALIFIE-Lettres.pdf_](./pdf/QUALIFIE-Lettres.pdf)]
 - J'ai informé la **<u>Police Municipale</u>** de SALINS-LES-BAINS: [[_http://admr39.github.io/pdf/POLICE-Lettre.pdf_](./pdf/POLICE-Lettre.pdf)]
