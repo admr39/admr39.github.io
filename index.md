@@ -25,10 +25,10 @@ Mais le 2 mars 2021, l’association locale ADMR de SALINS-LES-BAINS a brutaleme
 
 **Pourquoi?**
 
-ADMR m’accuse d’être une personne dangereuse qui martyrise leurs employées "aide a domicile": [[_http://admr39.github.io/pdf/ADMR-Recommandee.pdf_](./pdf/ADMR-Recommandee.pdf)]
+ADMR m’accuse d’être une personne dangereuse qui martyrise leurs employées "aide a domicile": [[_http://admr39.github.io/lettre/ADMR-Salins.pdf_](./lettre/ADMR-Salins.pdf)]
 
 C'est completement Faux. Il ont essaye de me racketter, il ont essaye de me harceler, aussi j’ai découvert qu’il escroquait l’assurance maladie.
-La federation départementale se fait des couilles en or (sorry for my french) et investis leurs bénéfices malhonnêtes sur des biens immobiliers et des entreprises de formation bidon: [[_http://admr39.github.io/pdf/ADMR-Fraude.pdf_](./pdf/ADMR-Fraude.pdf)]. Toutes ces activités criminelles sont bénis par l’union nationale de l’ADMR.
+La federation départementale se fait des couilles en or (sorry for my french) et investis leurs bénéfices malhonnêtes sur des biens immobiliers et des entreprises de formation bidon: [[_http://admr39.github.io/lettre/ADMR-Jura.pdf_](./lettre/ADMR-Jura.pdf)]. Toutes ces activités criminelles sont bénis par l’union nationale de l’ADMR.
 
 La livraison de courses est pour moi une nécessité et malheureusement ADMR ont un monopole dans le milieu rural.
 
