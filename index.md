@@ -21,7 +21,7 @@ qui pretend être “La reference du service à la personne”
 
 Suite à mon handicap, j’ai bénéficié d’une “aide à domicile”. Une prestation “livraison de courses hebdomadaire” a été effectuée par ADMR pendant plus de 6 mois sans problème.
 
-Mais le 2 mars 2021, l’association locale ADMR de SALINS-LES-BAINS a brutalement résilié mon contrat avec un préavis de seulement 3 jours.
+Mais le 2 mars 2021, l’**<u>Association Locale ADMR de SALINS-LES-BAINS</u>** a brutalement résilié mon contrat avec un préavis de seulement 3 jours.
 
 **Pourquoi?**
 
