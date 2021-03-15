@@ -37,6 +37,7 @@ La livraison de courses est pour moi une nécessité et malheureusement ADMR ont
 - J'ai fait appel à une **<u>Personne Qualifiée</u>**: [[_http://admr39.github.io/lettre/PERSONNE-Qualifiees.pdf_](./lettre/PERSONNE-Qualifiees.pdf)]
 - J'ai saisi le **<u>Défenseur des droits</u>**: [[_http://admr39.github.io/lettre/DEFENSEUR-Droits.pdf_](./lettre/DEFENSEUR-Droits.pdf)]
 - J'ai informé la **<u>Police Municipale</u>** de SALINS-LES-BAINS: [[_http://admr39.github.io/lettre/POLICE-Municipale.pdf_](./lettre/POLICE-Municipale.pdf)]
+- J'ai porté plainte à la **<u>Gendarmerie</u>**
 
 **Mais malheureusement je crois que je vais être oblige de punir les criminels moi-même. Dieu est Grand...**
 
