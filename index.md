@@ -28,7 +28,7 @@ Mais le 2 mars 2021, l’**<u>Association Locale ADMR de SALINS-LES-BAINS</u>** 
 ADMR m’accuse d’être une personne dangereuse qui martyrise leurs employées "aide a domicile": [[_http://admr39.github.io/lettre/ADMR-Salins.pdf_](./lettre/ADMR-Salins.pdf)]
 
 C'est completement Faux. Il ont essaye de me racketter, il ont essaye de me harceler, aussi j’ai découvert qu’il escroquait l’assurance maladie.
-La federation départementale se fait des couilles en or (sorry for my french) et investis leurs bénéfices malhonnêtes sur des biens immobiliers et des entreprises de formation bidon: [[_http://admr39.github.io/lettre/ADMR-Jura.pdf_](./lettre/ADMR-Jura.pdf)]. Toutes ces activités criminelles sont bénis par l’union nationale de l’ADMR.
+La federation départementale se fait des couilles en or (sorry for my french) et investis leurs bénéfices malhonnêtes sur des biens immobiliers et des entreprises de formation bidon. Toutes ces activités criminelles sont bénis par l’union nationale de l’ADMR.
 
 La livraison de courses est pour moi une nécessité et malheureusement ADMR ont un monopole dans le milieu rural.
 
@@ -37,10 +37,6 @@ La livraison de courses est pour moi une nécessité et malheureusement ADMR ont
 - J'ai fait appel à une **<u>Personne Qualifiée</u>**: [[_http://admr39.github.io/lettre/PERSONNE-Qualifiees.pdf_](./lettre/PERSONNE-Qualifiees.pdf)]
 - J'ai saisi le **<u>Défenseur des droits</u>**: [[_http://admr39.github.io/lettre/DEFENSEUR-Droits.pdf_](./lettre/DEFENSEUR-Droits.pdf)]
 - J'ai informé la **<u>Police Municipale</u>** de SALINS-LES-BAINS: [[_http://admr39.github.io/lettre/POLICE-Municipale.pdf_](./lettre/POLICE-Municipale.pdf)]
-<!--
-- J'ai porté plainte à la **<u>Gendarmerie</u>**: [[_http://admr39.github.io/lettre/PROCUREUR-Republique.pdf_](./lettre/PROCUREUR-Republique.pdf)]
-- J'ai demandé de l'aide à la **<u>Préfecture du JURA</u>**: [[_http://admr39.github.io/lettre/PREFET-Jura.pdf_](./lettre/PREFET-Jura.pdf)].
--->
 
 **Mais malheureusement je crois que je vais être oblige de punir les criminels moi-même. Dieu est Grand...**
 
