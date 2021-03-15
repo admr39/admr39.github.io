@@ -50,7 +50,7 @@ admr2@salins.fede39.admr.org - 03.84.73.02.77
 - Marcelle GENIN, Vice-Présidente du CCAS de SALINS-LES-BAINS
 m.genin@mairie-salinslesbains.fr - 06.77.05.70.568
 - Thomas SCRIVE, Directeur de la Federation ADMR du JURA
-info.fede39@admr.org - 03.84.47.26.31
+tscrive@fede39.admr.org - 03.84.47.26.31
 - Michèle CARBONNEAU, Présidente et Gérante  ADMR du JURA
 info.fede39@admr.org - 03.84.47.26.31
 - Marie-Josée DAGUIN, Présidente Union Nationale ADMR
